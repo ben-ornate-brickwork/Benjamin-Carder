@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ornate Brickwork</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0e0e0; /* Light red background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 3em;
+            letter-spacing: 2px;
+        }
+
+        .container {
+            padding: 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        .about {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #e74c3c; /* Light red text for headings */
+            font-size: 2em;
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.6em;
+            color: #444;
+        }
+
+        .contact {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .contact p {
+            font-size: 1.5em;
+            margin: 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+        }
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ornate Brickwork</h1>
+    </header>
+
+    <div class="container">
+        <section class="about">
+            <h2>About Me</h2>
+            <p>At Ornate Brickwork, we specialize in high-quality bricklaying services, offering expert craftsmanship that meets and exceeds your expectations. Whether it's residential, commercial, or custom projects, we deliver exceptional results with attention to detail and a focus on lasting durability.</p>
+        </section>
+
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p>Phone: 07525185597</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Ornate Brickwork. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
